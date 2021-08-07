@@ -2,4 +2,6 @@ It is well noted
 
 This is the Lord's doing
 
-We need to learn 
+We need to learn
+
+SSH key gen done and applied
